@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+video {
+  margin-top: 20px;
+}
+
+.LabelPair {
+  margin-bottom: 10px;
+}
+
+.InputField, .InputField2 {
+  padding: 8px;
+  margin: 5px;
+}
+
+.Actions {
+  margin-bottom: 20px;
+}
